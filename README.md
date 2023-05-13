@@ -19,6 +19,6 @@ We deeply respect your privacy. The Truckly Vendor App does not collect any pers
 
 Truckly - Email - support@truckly.com
 
----
+## Credits
 
-Thank you for visiting this repository and showing interest in the Truckly Vendor App. Enjoy exploring the app and its features!
+This app was built by myself and [@hamadmarhoon](https://github.com/hamadmarhoon).
